@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login to HotelApp","Login with valid credentials","SUCCESS","2021-10-06T08:35:02.844+11:00[Australia/Sydney]","0.0","10.54"
+"Login to HotelApp","Login with invalid credentials","SUCCESS","2021-10-06T08:35:14.211+11:00[Australia/Sydney]","0.0","6.78"
+"Search a hotel","Search hotel with valid search","SUCCESS","2021-10-06T08:35:02.993+11:00[Australia/Sydney]","0.0","28.51"
+"Search a hotel","Search hotel only with Location","SUCCESS","2021-10-06T08:35:31.51+11:00[Australia/Sydney]","0.0","6.41"
+"Search a hotel","Search hotel without selecting Location","SUCCESS","2021-10-06T08:35:38.541+11:00[Australia/Sydney]","0.0","9.7"
+"Search a hotel","Search hotel without selecting any field","FAILURE","2021-10-06T08:35:48.236+11:00[Australia/Sydney]","0.0","6.77"
